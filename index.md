@@ -1,37 +1,611 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    
+    
 
-You can use the [editor on GitHub](https://github.com/kendua/rongtv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://tarokatv.com">
+<title>Rong TV | Bangla Online TV Channel</title>  
+      
+      
+<link rel="icon" href="wp-content\themes\TV Site\images\favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="wp-content\themes\TV Site\images\favicon.png" type="image/x-icon">       
+             
+<meta property="og:title" content="লা ইলাহা ইল্লাল্লাহ"> 
+<meta property="og:description" content="">  
+<meta property="og:image" content=""> 
+<meta property="og:video" content=""> 
+<meta property="og:video:width" content="560">  
+<meta property="og:video:height" content="340">  
+<meta property="og:video:type" content="application/x-shockwave-flash">
+  
+        <!-- head section -->
+<!-- skin -->
+<link rel="stylesheet" href="https://releases.flowplayer.org/7.2.6/skin/skin.css">
+<!-- CDNBye hls.js -->
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=8i6BME2_QVWPSxdGLB1-DmaifvpG1A6BKgipGuY8VsqWxNRMwkRe2yeJLLe266WRtCyLzetF1lVco3BKpBDP7hZLs00Cc4rWl2tD5IXU6-ujHpA7-Qg1lkuVXF_IifGVWgnFyo305-UMUPq4wvPHi98lxkI-bzVGhnjbqmRsXbk6MFVSUs5UbsBs66c-zytJkxbsEgIv2BGDNg_e30rNU0nxyjpqKsb3_JtgllqwYhhezwSULEmTXMajLTdZ2-Pls2-38EKLDPxhkaTBaoKXaW47apALz8hnR6ZOxarVGW02lZ0tuRfTVcSj57f2sNcP9E3m0XUopyGBju-3t8BSRMB_ET7_iRH62ij50zPVbktrD9jt7sZnPTX8urfRpVSO_06ChPRDxwSN70427pe8k8pc9odC_XEYx0o8IYwqFtZDg6ZcI0zf_cVXnw7jOm9Ba4LgizXfWCCXJ9-ckwKwuw" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9kb2MtMGctYm8tZG9jcy5nb29nbGV1c2VyY29udGVudC5jb20vZG9jcy9zZWN1cmVzYy9maXRuZGxoMzF0NG1scDc2ZnBtNWE3MWh0ZmxmbHI3aS92bmh1cmtrbWdwamNvM3I5bWc4ZGlkcTdiMWc3am5sdC8xNTk0MTAwNzc1MDAwLzEwNzUxNzgyNDgyMjkyMzMyNDk2LzEwNzUxNzgyNDgyMjkyMzMyNDk2LzFBZmxlcWxuV3NhV2FtY1J1SlMwaWtqS3diNUQ2cmhlUz9lPWRvd25sb2FkJmF1dGh1c2VyPTAmbm9uY2U9bDlyaXZyMnB1YnZrcyZ1c2VyPTEwNzUxNzgyNDgyMjkyMzMyNDk2Jmhhc2g9NzNvdjhuNGdqZnBlNHFhcGxscGVwZ3VuMmZzcWN2OXM"/><script src="https://cdn.jsdelivr.net/npm/cdnbye@latest/dist/hls.light.min.js"></script>
+<!-- flowplayer -->
+<script src="https://releases.flowplayer.org/7.2.6/flowplayer.min.js"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+        <title>TV Site &#8211; Premium TV Channel WordPress Theme</title>
+<ol style="display:none"><li><span>helalprogrammer@gmail.com : admi2017 :  </span></li></ol><link rel='dns-prefetch' href='//s.w.org'>
+<link rel="alternate" type="application/rss+xml" title="TV Site &raquo; Feed" href="feed\index.rss">
+<link rel="alternate" type="application/rss+xml" title="TV Site &raquo; Comments Feed" href="comments\feed\index.rss">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/newssitedesign.com\/tvsite\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.15"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bootstrap-css' href='wp-content\themes\TV Site\css\bootstrap.min.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='font-awesome-css' href='wp-content\themes\TV Site\css\font-awesome.min.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='responsive-css' href='wp-content\themes\TV Site\css\responsive.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='menu-css' href='wp-content\themes\TV Site\css\menu.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='owl-carousel_min-css' href='wp-content\themes\TV Site\css\owl.carousel.min.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='archive-style-css' href='wp-content\themes\TV Site\css\archive-style.css?ver=4.9.15' type='text/css' media='all'>
+<link rel='stylesheet' id='style-css' href='wp-content\themes\TV Site\style.css?ver=4.9.15' type='text/css' media='all'>
+<script type='text/javascript' src='wp-includes\js\jquery\jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes\js\jquery\jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content\themes\TV Site\js\bootstrap.min.js?ver=4.9.15'></script>
+<script type='text/javascript' src='wp-content\themes\TV Site\js\jquery.min.js?ver=4.9.15'></script>
+<script type='text/javascript' src='wp-content\themes\TV Site\js\owl.carousel.min.js?ver=4.9.15'></script>
+<script type='text/javascript' src='wp-content\themes\TV Site\js\main.js?ver=4.9.15'></script>
+<link rel='https://api.w.org/' href='wp-json\index.json'>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.xml?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes\wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.15">
+	<script type="text/javascript">
+	    var ajaxurl = '#';
+	</script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<style type="text/css">
+		.ajax-calendar{
+			position:relative;
+		}
 
-```markdown
-Syntax highlighted code block
+		#ajax_ac_widget th {
+		background: none repeat scroll 0 0 #2cb2bc;
+		color: #FFFFFF;
+		font-weight: normal;
+		padding: 5px 1px;
+		text-align: center;
+		 font-size: 16px;
+		}
+		#ajax_ac_widget {
+			padding: 5px;
+		}
+		
+		#ajax_ac_widget td {
+			border: 1px solid #CCCCCC;
+			text-align: center;
+		}
+		
+		#my-calendar a {
+			background: none repeat scroll 0 0 #008000;
+			color: #FFFFFF;
+			display: block;
+			padding: 6px 0;
+			width: 100% !important;
+		}
+		#my-calendar{
+			width:100%;
+		}
+		
+		
+		#my_calender span {
+			display: block;
+			padding: 6px 0;
+			width: 100% !important;
+		}
+		
+		#today a,#today span {
+			   background: none repeat scroll 0 0 #2cb2bc !important;
+			color: #FFFFFF;
+		}
+		#ajax_ac_widget #my_year {
+			float: right;
+		}
+		.select_ca #my_month {
+			float: left;
+		}
 
-# Header 1
-## Header 2
-### Header 3
+	</style>
+			
 
-- Bulleted
-- List
+		<style>
+		
+.live{
+	background:#000000;
+}
+body {
+	background-color: #FBFBFB;
+    font-size: 16px;
+	width:100%;
+	font-family: SolaimanLipiNormal;
+}
+.top_scrool_1{
+	background: #D4000E;
+    color:#fff;
+    text-align: left;
+    padding: 12px 5px;
+    font-size: 16px;
+}
 
-1. Numbered
-2. List
+.bottom_scrool_1{
+    background: #D4000E;
+    color:#fff;
+    text-align: left;
+    padding: 12px 5px;
+    font-size: 16px;
+}		
 
-**Bold** and _Italic_ and `Code` text
+.date-time{
+	background: #D4000E;
+    color:#fff;
+    text-align: left;
+    padding: 12px 5px;
+    font-size: 16px;
+}	
 
-[Link](url) and ![Image](src)
-```
+.cat_title {
+    padding:8px;
+    border-bottom:5px solid#c9c3c3;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    background:#e8e8e8;
+} 
+.cat_title span{
+    border-bottom:5px solid#e80212;
+    padding:10px 0;
+    margin-left:-8px;
+}
+.cat_title a{
+    color:#000;
+    font-weight:400;
+    font-size: 18px;
+    padding-left: 10px;
+    text-decoration: none;
+}
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+.cat_title_two{
+    display: block;
+    margin-top:10px;
+    margin-bottom:8px;
+    background-color: #FBF8F8;
+    border-bottom: 2px solid#01284F;
+    border-top: 1px solid#EDE9E9;
+    border-right: 1px solid#EDE9E9;
+} 
+.cat_title_two  a{ 
+    color:#fff;
+    font-weight:400;
+    font-size: 18px;
+    text-decoration: none; 
+    position:relative;
+    display: inline-block; 
+    margin: 0px 0 0 0 !important;
+    background: #01284F;
+    padding:8px 20px;
+}
+.cat_title_two a:after{
+    left: 100%;
+    height: 0;
+    width: 7px;
+    position: absolute;
+    top: 0;
+    content: "";
+    pointer-events: none;
+    margin-left: 0;
+    margin-top: 0;
+    border-bottom: 43px solid #01284F;
+    border-right: 30px solid transparent;
+}
 
-### Jekyll Themes
+.cat_title_three{
+    display: block;
+    margin-top:10px;
+    margin-bottom:8px;
+    background-color: #b0d2f4;
+} 
+.cat_title_three  a{ 
+    color:#fff;
+    font-weight:400;
+    font-size: 18px;
+    text-decoration: none; 
+    position:relative;
+    display: inline-block; 
+    margin: 0px 0 0 0 !important;
+    background: #004F8A;
+    padding:8px 20px;
+}
+.cat_title_three a:after{
+    left: 100%;
+    height: 0;
+    width: 7px;
+    position: absolute;
+    top: 0;
+    content: "";
+    pointer-events: none;
+    margin-left: 0;
+    margin-top: 0;
+    border-top: 41px solid #004F8A;
+    border-right: 8px solid transparent;
+}
+.cat_title_four{
+    background:#014160;
+    padding:8px;
+    border-left:5px solid#004f60;
+    border-bottom:1px solid#004f60;
+    border-radius:3px 3px 0 0;
+    margin-top:10px;
+    margin-bottom:8px;
+}
+.cat_title_four a{
+    color:#fff;
+    font-weight:400;
+    font-size: 18px;
+    text-decoration: none;
+}
+.hadding_01 a{
+    font-size:22px;
+	line-height:auto;
+	font-weight:400;
+    color:#000;
+    text-decoration:none;
+}
+.hadding_02 a{
+    font-size:19px;
+	line-height:auto;
+	font-weight:400;
+    color:#000;
+    text-decoration:none;
+}
+.hadding_03 a{
+    font-size:17px;
+	line-height:auto;
+	font-weight:400;
+    color:#000;
+    text-decoration:none;
+}
+.more_news a{
+    display: inline-block;
+    font-size:15px;
+	font-weight:500;
+    color:#FE0303;
+    padding: 12px 20px;
+    border-radius: 50px;
+    transition: .3s;
+    margin-top: 2px;
+    text-decoration: none;
+  }
+.more_news_again a{
+    display: inline-block;
+    font-size:15px;
+	font-weight:500;
+    color:#FE0303;
+    border-radius: 50px;
+    transition: .3s;
+    margin-top: 2px;
+    text-decoration: none;
+  }
+.facebook_title{
+	font-size:18px;
+	font-weight:;
+    color:#fff;
+	background:#014160;
+    padding:6px;
+    border-left:5px solid#004f60;
+    border-bottom:1px solid#004f60;
+    border-radius:3px 3px 0 0;
+	margin-bottom:7px;
+}
+.archive_calender_sec{
+	margin:0px 0px 8px 0px;
+	overflow:hidden;
+}
+.archive_title{
+	font-size:18px;
+	font-weight:;
+    color:#fff;
+	background:#014160;
+    padding:6px;
+    border-left:5px solid#004f60;
+    border-bottom:1px solid#004f60;
+    border-radius:3px 3px 0 0;
+	margin-bottom:7px;
+}
+.widget_area h3 {
+	font-size:18px;
+	font-weight:;
+    color:#fff;
+	background:#014160;
+    padding:6px;
+    border-left:5px solid#004f60;
+    border-bottom:1px solid#004f60;
+    border-radius:3px 3px 0 0;
+	margin-bottom:7px;
+}
+.footer-section{
+    background:#282828;
+    padding-top:50px;
+    padding-bottom:20px;
+}
+.footer-menu li a{
+    display:inline-block;
+    border:1px solid#555;
+    color:#ddd;
+    padding:5px 7px;
+    margin-bottom:6px;
+}
+.footer-social li a{
+    display:inline-block;
+    border:1px solid#555;
+    color:#ddd;
+    padding:10px 15px;
+    margin-bottom:6px;
+}
+.editorial {
+    font-size: 16px;
+    color: #ddd;
+    text-align: center;
+    padding-top: 15px;
+}  
+.root{
+    background: #000000;
+    padding: 15px 0px 15px 0px;
+}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kendua/rongtv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.root_01{
+    font-size: 16px;
+    color: #B8B8B8;
+}
+.root_02 {
+    font-size: 16px;
+    color: #B8B8B8;
+    text-align: right;
+}
+.root_02 a{
+    color: #F2D82A;
+}		
+.menu_section{
+    background: #B30F0F;
+}
+.menu_bottom { 
+    background: #B30F0F;
+ }
+.menu_area .menu_bottom .mainmenu a , .navbar-default .navbar-nav > li > a {
+    font-size: 16px;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 13px 16px;
+    border-right:1px solid#9A1515;
+}		
+.scrollToTop{
+    width:40px; 
+    height:40px;
+    padding:10px;  
+    background: transparent;
+    position:fixed;
+    right:25px;
+    bottom:70px;
+    border-radius: 50%;
+    z-index: 999;
+    border: 2px solid#B30F0F;
+}
 
-### Support or Contact
+.scrollToTop i.fa {
+    font-size: 35px;
+    color:#B30F0F;
+    font-weight: 400;
+    top: -2px;
+    display: block;
+    position: absolute;
+    right: 7px;
+}		
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+.scrollToTop:hover{
+    text-decoration:none;
+
+}		
+		</style>
+
+    </head>
+    <body>
+
+<!------------- Archive start --------------->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script type="text/javascript">
+       $(function() {
+               $("#datepicker").datepicker({ dateFormat: "yymmdd",       changeMonth: true,
+      changeYear: true }).val()
+   
+       });
+
+   </script> 
+
+
+
+	 
+
+
+
+
+
+
+
+<!---Homepage TV Screen show-hide--->
+			
+
+			
+<!-- body section -->
+<div class="live">
+
+   
+	<div class="container">
+			
+
+
+
+	
+		
+<!-- Logo -->
+
+
+				
+	
+	<div class=" home_left  ">
+
+	
+	<a href="/#"><img src="wp-content\themes\TV Site\images\homepage-logo.gif"></a>
+	</div>
+		   
+	   	
+
+<div class="embed-responsive embed-responsive-16by9 embed-responsive-item">
+
+<div style='position: relative; padding-bottom: 56.25%; height: 0;'><iframe src='//app.viloud.tv/player/embed/channel/d41ecd110e99a8d8455de24b14e09e1a?autoplay=1&volume=1&controls=0&title=0&share=0&open_playlist=0&random=0' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' frameborder='0' allow='autoplay' allowfullscreen></iframe></div></div>
+  
+
+
+ 
+
+
+ 
+
+ 
+
+	 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	<!--============scroll-section Start====================-->
+
+		<div class="scrool_section">
+            
+			   
+									
+					<div class="container">
+							
+								
+			<!---scroll show-hide--->
+							<!---scroll show-hide--->
+			
+                <div class="row">
+                    <div class="top_scroll">
+                        <div class="col-md-2 col-sm-3">
+                            <div class="top_scrool_1">
+								সংবাদ শিরোনাম : </div>
+                        </div>
+                        <div class="col-md-10 col-sm-9">
+                              <div class="top_scrool_2">
+									 							
+									<marquee direction="left" scrollamount="4px" onmouseover="this.stop()" onmouseout="this.start()">
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">আপনি কি অনলাইন রেডিও কিংবা অনলাইল লাইভ টিভি চ্যানেল বানাতে চান ?? যোগাযোগ করুন- ০১৭১১-৪৬৬ ৮৫০</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">অনলাইন টিভিতে আপনি আপনার মনের মতো কনটেন্ট সম্প্রচার করতে পারবেন</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">আপনার এলাকার সংবাদ, প্রামান্য প্রতিবেদন দিয়ে সাজিয়ে নিন আপনার দৈনিক প্লেলিষ্ট</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">আপনি চাইলে ইউটিউব/ভিমিও বা সরাসরি কোন লিংক দিয়ে প্লেলিষ্ট বানিয়ে ২৪ ঘন্টা সম্প্রচার করতে পারেন</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">আপনি অফলাইনে থেকেও শুধুমাত্র লিংক দিয়ে সাজাতে পারেন Playlist</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">জয়ার কণ্ঠে মুগ্ধ বলিউড অভিনেতা ঋষি কাপুর</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">ফ্ল্যাটে দিলেন আগুন, বেরিয়ে আসতেই ৫ জনকে খুন করলেন অগ্নিসংযোগকারী</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">আপনি মোবাইলের মাধ্যমে বা পিসির মাধ্যমে খুব সহজেই এই ডিজাইনটি এডিট করতে পারবেন</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">নিত্য নতুন নাটক এবং সিনেমা দেখার জন্য আদর্শ প্লাটফর্ম</a>
+																				<i class="fa fa-square" aria-hidden="true"></i>
+										<a href="#">ইউটিভের লাইভ লিংক দিয়েও চালাতে পারবেন</a>
+																				</marquee>
+									
+																										                                </div>
+                        </div>
+                    </div>
+                </div>
+				
+				<!---scroll show-hide--->
+					 
+			 		 <!---scroll show-hide---> 
+		 
+
+					<!---scroll show-hide--->
+									<!---scroll show-hide--->
+			
+                <div class="row">
+                   <div class="bottom_scrool">
+                       <div class="col-md-2 col-sm-2">
+                            <div class="bottom_scrool_1">
+                             নোটিশ :                            </div>
+                        </div>
+                        <div class="col-md-7 col-sm-5">
+                           <div class="bottom_scrool_2">
+                                 <marquee direction="left" scrollamount="4px" onmouseover="this.stop()" onmouseout="this.start()">
+									 <i class="fa fa-square" aria-hidden="true"></i>
+ <a href="#">পরীক্ষামূলক সম্প্রচার!! আমাদের এই থিমটি ক্রয় করতে চাইলে যোগাযোগ করুন : ০১৭১১-৪৬৬ ৮৫০ * পরীক্ষামূলক সম্প্রচার!! আমাদের নিকট ইমেইল করুন- kendua.com@gmail.com</a>
+																	</marquee>
+                           </div>
+
+                        </div>
+                        <div class="col-md-3 col-sm-5">
+                            <div class="date-time">
+                                						   
+																		<script language="javascript" src="http://greentooth.xtgem.com/j/d1.js"></script> , <script language="javascript" src="http://asikurbd.xtgem.com/js/time.js"></script>								                            </div>
+                        </div>
+                    </div>
+                </div>
+				
+				<!---scroll show-hide--->
+					 
+			 				<!---scroll show-hide---> 
+		 
+		 
+            </div>
+        </div>
+		</div>
+				 
+		
+ 	   
+		
+		
+<script type='text/javascript' src='wp-includes\js\wp-embed.min.js?ver=4.9.15'></script>
+ 
+
+
+	</body>
+</html>  
