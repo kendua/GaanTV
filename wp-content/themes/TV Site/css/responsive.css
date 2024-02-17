@@ -89,7 +89,7 @@ form.example button {
 	margin-top: 3px!important;
 }
  iframe {
-	 height:400px!important;
+	 height:480px!important;
 }
 
 }
@@ -196,7 +196,8 @@ form.example button {
 	margin-top: 6px!important;
 }
  iframe {
-	 height:305px!important;
+	 height:205px!important;
+	 margin-top: 5px;
 }
 
 }
